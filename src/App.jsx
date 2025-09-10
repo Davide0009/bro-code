@@ -5,7 +5,7 @@ import Cta from './Cta.jsx';
 import Pricing from './Pricing.jsx';
 import Logocloud from './Logocloud.jsx';
 import Contact from './Contact.jsx';
-import Footer from './Footer.jsx';
+
 
 function App(){
   return(
@@ -17,9 +17,8 @@ function App(){
       <Testimonials/>
       <Pricing/>
       <Cta/>
-      <Logocloud/>
       <Contact/>
-      <Footer/>
+      <Logocloud/>
     </>
 
 
